@@ -1,0 +1,20 @@
+{
+    "paypal": 10,
+    "invite": "vast",
+    "wait_time": 1,
+    "scraper": {
+        ".com": "",
+        "send": ""
+    },
+    "captcha": {
+        "capService": "maker",
+        "capKey": ""
+    },
+    "checker": {
+        "style": "vertical",
+        "style_types": [
+            "horizontal",
+            "vertical"
+        ]
+    }
+}
